@@ -4,6 +4,7 @@
   "dependencies": {
     "reveal.js": "~3.3.0",
     "highlightjs": "~9.0.0",
-    "roboto-fontface": "^0.8.0"
+    "roboto-fontface": "^0.8.0",
+    "font-awesome-5": "^5.3.1"
   }
 }
