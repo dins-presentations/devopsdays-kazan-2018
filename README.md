@@ -1,1 +1,1 @@
-# SQA Days #23 2018
+# Devops Days Kazan - September 14-15, 2018
